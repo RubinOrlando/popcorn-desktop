@@ -70,7 +70,7 @@
     "opensubtitles-api": "5.0.0",
     "os-name": "3.0.0",
     "q": "2.0.3",
-    "readdirp": "*",
+    "readdirp": "3.0.0",
     "request": "2.88.x",
     "rimraf": "2.x.x",
     "sanitizer": "0.x.x",
